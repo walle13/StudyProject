@@ -1,0 +1,6 @@
+E:\code\StudyProject\004\StaticSample\bin\Debug\StaticSample.exe.config
+E:\code\StudyProject\004\StaticSample\bin\Debug\StaticSample.exe
+E:\code\StudyProject\004\StaticSample\bin\Debug\StaticSample.pdb
+E:\code\StudyProject\004\StaticSample\obj\Debug\StaticSample.csprojAssemblyReference.cache
+E:\code\StudyProject\004\StaticSample\obj\Debug\StaticSample.exe
+E:\code\StudyProject\004\StaticSample\obj\Debug\StaticSample.pdb

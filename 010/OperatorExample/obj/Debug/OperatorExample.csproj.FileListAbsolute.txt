@@ -1,0 +1,6 @@
+E:\code\StudyProject\010\OperatorExample\bin\Debug\OperatorExample.exe.config
+E:\code\StudyProject\010\OperatorExample\bin\Debug\OperatorExample.exe
+E:\code\StudyProject\010\OperatorExample\bin\Debug\OperatorExample.pdb
+E:\code\StudyProject\010\OperatorExample\obj\Debug\OperatorExample.exe
+E:\code\StudyProject\010\OperatorExample\obj\Debug\OperatorExample.pdb
+E:\code\StudyProject\010\OperatorExample\obj\Debug\OperatorExample.csprojAssemblyReference.cache

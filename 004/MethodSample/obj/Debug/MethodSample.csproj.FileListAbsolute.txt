@@ -1,0 +1,6 @@
+E:\code\StudyProject\004\MethodSample\bin\Debug\MethodSample.exe.config
+E:\code\StudyProject\004\MethodSample\bin\Debug\MethodSample.exe
+E:\code\StudyProject\004\MethodSample\bin\Debug\MethodSample.pdb
+E:\code\StudyProject\004\MethodSample\obj\Debug\MethodSample.exe
+E:\code\StudyProject\004\MethodSample\obj\Debug\MethodSample.pdb
+E:\code\StudyProject\004\MethodSample\obj\Debug\MethodSample.csprojAssemblyReference.cache

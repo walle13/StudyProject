@@ -1,0 +1,6 @@
+E:\code\StudyProject\021\EventExample\bin\Debug\EventExample.exe.config
+E:\code\StudyProject\021\EventExample\bin\Debug\EventExample.exe
+E:\code\StudyProject\021\EventExample\bin\Debug\EventExample.pdb
+E:\code\StudyProject\021\EventExample\obj\Debug\EventExample.csprojAssemblyReference.cache
+E:\code\StudyProject\021\EventExample\obj\Debug\EventExample.exe
+E:\code\StudyProject\021\EventExample\obj\Debug\EventExample.pdb

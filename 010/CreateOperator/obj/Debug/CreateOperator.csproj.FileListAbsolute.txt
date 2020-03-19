@@ -1,0 +1,6 @@
+E:\code\StudyProject\010\CreateOperator\bin\Debug\CreateOperator.exe.config
+E:\code\StudyProject\010\CreateOperator\bin\Debug\CreateOperator.exe
+E:\code\StudyProject\010\CreateOperator\bin\Debug\CreateOperator.pdb
+E:\code\StudyProject\010\CreateOperator\obj\Debug\CreateOperator.csprojAssemblyReference.cache
+E:\code\StudyProject\010\CreateOperator\obj\Debug\CreateOperator.exe
+E:\code\StudyProject\010\CreateOperator\obj\Debug\CreateOperator.pdb

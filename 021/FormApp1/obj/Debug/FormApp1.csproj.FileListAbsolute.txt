@@ -1,0 +1,9 @@
+E:\code\StudyProject\021\FormApp1\bin\Debug\FormApp1.exe.config
+E:\code\StudyProject\021\FormApp1\bin\Debug\FormApp1.exe
+E:\code\StudyProject\021\FormApp1\bin\Debug\FormApp1.pdb
+E:\code\StudyProject\021\FormApp1\obj\Debug\FormApp1.csprojAssemblyReference.cache
+E:\code\StudyProject\021\FormApp1\obj\Debug\FormApp1.MyForm.resources
+E:\code\StudyProject\021\FormApp1\obj\Debug\FormApp1.Properties.Resources.resources
+E:\code\StudyProject\021\FormApp1\obj\Debug\FormApp1.csproj.GenerateResource.cache
+E:\code\StudyProject\021\FormApp1\obj\Debug\FormApp1.exe
+E:\code\StudyProject\021\FormApp1\obj\Debug\FormApp1.pdb

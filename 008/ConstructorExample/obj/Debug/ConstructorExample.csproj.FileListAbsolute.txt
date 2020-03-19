@@ -1,0 +1,6 @@
+E:\code\StudyProject\008\ConstructorExample\bin\Debug\ConstructorExample.exe.config
+E:\code\StudyProject\008\ConstructorExample\bin\Debug\ConstructorExample.exe
+E:\code\StudyProject\008\ConstructorExample\bin\Debug\ConstructorExample.pdb
+E:\code\StudyProject\008\ConstructorExample\obj\Debug\ConstructorExample.csprojAssemblyReference.cache
+E:\code\StudyProject\008\ConstructorExample\obj\Debug\ConstructorExample.exe
+E:\code\StudyProject\008\ConstructorExample\obj\Debug\ConstructorExample.pdb

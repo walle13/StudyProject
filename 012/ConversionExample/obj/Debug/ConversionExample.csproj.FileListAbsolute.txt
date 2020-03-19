@@ -1,0 +1,6 @@
+E:\code\StudyProject\012\ConversionExample\bin\Debug\ConversionExample.exe.config
+E:\code\StudyProject\012\ConversionExample\bin\Debug\ConversionExample.exe
+E:\code\StudyProject\012\ConversionExample\bin\Debug\ConversionExample.pdb
+E:\code\StudyProject\012\ConversionExample\obj\Debug\ConversionExample.csprojAssemblyReference.cache
+E:\code\StudyProject\012\ConversionExample\obj\Debug\ConversionExample.exe
+E:\code\StudyProject\012\ConversionExample\obj\Debug\ConversionExample.pdb

@@ -1,0 +1,6 @@
+E:\code\StudyProject\004\ClassAndInstance\bin\Debug\ClassAndInstance.exe.config
+E:\code\StudyProject\004\ClassAndInstance\bin\Debug\ClassAndInstance.exe
+E:\code\StudyProject\004\ClassAndInstance\bin\Debug\ClassAndInstance.pdb
+E:\code\StudyProject\004\ClassAndInstance\obj\Debug\ClassAndInstance.csprojAssemblyReference.cache
+E:\code\StudyProject\004\ClassAndInstance\obj\Debug\ClassAndInstance.exe
+E:\code\StudyProject\004\ClassAndInstance\obj\Debug\ClassAndInstance.pdb

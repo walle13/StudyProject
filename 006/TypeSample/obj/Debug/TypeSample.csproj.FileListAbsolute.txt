@@ -1,0 +1,6 @@
+E:\code\StudyProject\006\TypeSample\bin\Debug\TypeSample.exe.config
+E:\code\StudyProject\006\TypeSample\bin\Debug\TypeSample.exe
+E:\code\StudyProject\006\TypeSample\bin\Debug\TypeSample.pdb
+E:\code\StudyProject\006\TypeSample\obj\Debug\TypeSample.csprojAssemblyReference.cache
+E:\code\StudyProject\006\TypeSample\obj\Debug\TypeSample.exe
+E:\code\StudyProject\006\TypeSample\obj\Debug\TypeSample.pdb

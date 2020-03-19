@@ -1,0 +1,5 @@
+E:\code\StudyProject\006\Hanoi\bin\Debug\Hanoi.exe.config
+E:\code\StudyProject\006\Hanoi\bin\Debug\Hanoi.exe
+E:\code\StudyProject\006\Hanoi\bin\Debug\Hanoi.pdb
+E:\code\StudyProject\006\Hanoi\obj\Debug\Hanoi.exe
+E:\code\StudyProject\006\Hanoi\obj\Debug\Hanoi.pdb

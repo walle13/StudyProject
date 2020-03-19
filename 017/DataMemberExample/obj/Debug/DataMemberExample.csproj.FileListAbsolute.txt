@@ -1,0 +1,6 @@
+E:\code\StudyProject\017\DataMemberExample\bin\Debug\DataMemberExample.exe.config
+E:\code\StudyProject\017\DataMemberExample\bin\Debug\DataMemberExample.exe
+E:\code\StudyProject\017\DataMemberExample\bin\Debug\DataMemberExample.pdb
+E:\code\StudyProject\017\DataMemberExample\obj\Debug\DataMemberExample.csprojAssemblyReference.cache
+E:\code\StudyProject\017\DataMemberExample\obj\Debug\DataMemberExample.exe
+E:\code\StudyProject\017\DataMemberExample\obj\Debug\DataMemberExample.pdb

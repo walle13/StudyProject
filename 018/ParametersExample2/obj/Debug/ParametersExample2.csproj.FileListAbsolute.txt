@@ -1,0 +1,6 @@
+E:\code\StudyProject\018\ParametersExample2\bin\Debug\ParametersExample2.exe.config
+E:\code\StudyProject\018\ParametersExample2\bin\Debug\ParametersExample2.exe
+E:\code\StudyProject\018\ParametersExample2\bin\Debug\ParametersExample2.pdb
+E:\code\StudyProject\018\ParametersExample2\obj\Debug\ParametersExample2.csprojAssemblyReference.cache
+E:\code\StudyProject\018\ParametersExample2\obj\Debug\ParametersExample2.exe
+E:\code\StudyProject\018\ParametersExample2\obj\Debug\ParametersExample2.pdb

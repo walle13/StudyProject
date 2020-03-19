@@ -1,0 +1,6 @@
+E:\code\StudyProject\019\DelegateExample3\bin\Debug\DelegateExample3.exe.config
+E:\code\StudyProject\019\DelegateExample3\bin\Debug\DelegateExample3.exe
+E:\code\StudyProject\019\DelegateExample3\bin\Debug\DelegateExample3.pdb
+E:\code\StudyProject\019\DelegateExample3\obj\Debug\DelegateExample3.csprojAssemblyReference.cache
+E:\code\StudyProject\019\DelegateExample3\obj\Debug\DelegateExample3.exe
+E:\code\StudyProject\019\DelegateExample3\obj\Debug\DelegateExample3.pdb

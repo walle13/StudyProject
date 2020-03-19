@@ -1,0 +1,23 @@
+﻿<Window x:Class="WpfHelloWorld.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfHelloWorld"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Grid.Background>
+            <LinearGradientBrush EndPoint="0.5,1" MappingMode="RelativeToBoundingBox" StartPoint="0.5,0">
+                <GradientStop Color="#FFC1ECF3" Offset="1"/>
+                <GradientStop Color="#FFDBDBE3"/>
+                <GradientStop Color="#FF05D0F5"/>
+            </LinearGradientBrush>
+        </Grid.Background>
+        <Button x:Name="ButtonSayHello" Content="Click Me" HorizontalAlignment="Left" Margin="10,79,0,0" VerticalAlignment="Top" Width="762" Height="53" Click="ButtonSayHello_Click"/>
+        <TextBox x:Name="TextBoxShowHello" HorizontalAlignment="Left" Height="48" Margin="10,10,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="762" RenderTransformOrigin="-0.297,0.145"/>
+        <Button Content="Button" HorizontalAlignment="Left" Margin="10,165,0,0" VerticalAlignment="Top" Width="762" Height="45" Click="Button_Click_1"/>
+        <Button x:Name="ButtonSayWorld" Content="Button" HorizontalAlignment="Left" Margin="202,282,0,0" VerticalAlignment="Top" Width="75"/>
+
+    </Grid>
+</Window>

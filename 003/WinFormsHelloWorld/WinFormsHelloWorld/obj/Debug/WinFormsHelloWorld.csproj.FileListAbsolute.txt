@@ -1,0 +1,9 @@
+E:\code\StudyProject\003\WinFormsHelloWorld\WinFormsHelloWorld\bin\Debug\WinFormsHelloWorld.exe.config
+E:\code\StudyProject\003\WinFormsHelloWorld\WinFormsHelloWorld\bin\Debug\WinFormsHelloWorld.exe
+E:\code\StudyProject\003\WinFormsHelloWorld\WinFormsHelloWorld\bin\Debug\WinFormsHelloWorld.pdb
+E:\code\StudyProject\003\WinFormsHelloWorld\WinFormsHelloWorld\obj\Debug\WinFormsHelloWorld.csprojAssemblyReference.cache
+E:\code\StudyProject\003\WinFormsHelloWorld\WinFormsHelloWorld\obj\Debug\WinFormsHelloWorld.Form1.resources
+E:\code\StudyProject\003\WinFormsHelloWorld\WinFormsHelloWorld\obj\Debug\WinFormsHelloWorld.Properties.Resources.resources
+E:\code\StudyProject\003\WinFormsHelloWorld\WinFormsHelloWorld\obj\Debug\WinFormsHelloWorld.csproj.GenerateResource.cache
+E:\code\StudyProject\003\WinFormsHelloWorld\WinFormsHelloWorld\obj\Debug\WinFormsHelloWorld.exe
+E:\code\StudyProject\003\WinFormsHelloWorld\WinFormsHelloWorld\obj\Debug\WinFormsHelloWorld.pdb

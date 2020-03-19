@@ -1,0 +1,17 @@
+E:\code\StudyProject\004\ClassAndInstance1\bin\Debug\netcoreapp3.1\ClassAndInstance1.exe
+E:\code\StudyProject\004\ClassAndInstance1\bin\Debug\netcoreapp3.1\ClassAndInstance1.deps.json
+E:\code\StudyProject\004\ClassAndInstance1\bin\Debug\netcoreapp3.1\ClassAndInstance1.runtimeconfig.json
+E:\code\StudyProject\004\ClassAndInstance1\bin\Debug\netcoreapp3.1\ClassAndInstance1.runtimeconfig.dev.json
+E:\code\StudyProject\004\ClassAndInstance1\bin\Debug\netcoreapp3.1\ClassAndInstance1.dll
+E:\code\StudyProject\004\ClassAndInstance1\bin\Debug\netcoreapp3.1\ClassAndInstance1.pdb
+E:\code\StudyProject\004\ClassAndInstance1\obj\Debug\netcoreapp3.1\ClassAndInstance1.csprojAssemblyReference.cache
+E:\code\StudyProject\004\ClassAndInstance1\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+E:\code\StudyProject\004\ClassAndInstance1\obj\Debug\netcoreapp3.1\App.g.cs
+E:\code\StudyProject\004\ClassAndInstance1\obj\Debug\netcoreapp3.1\ClassAndInstance1_MarkupCompile.cache
+E:\code\StudyProject\004\ClassAndInstance1\obj\Debug\netcoreapp3.1\ClassAndInstance1_MarkupCompile.lref
+E:\code\StudyProject\004\ClassAndInstance1\obj\Debug\netcoreapp3.1\MainWindow.baml
+E:\code\StudyProject\004\ClassAndInstance1\obj\Debug\netcoreapp3.1\ClassAndInstance1.g.resources
+E:\code\StudyProject\004\ClassAndInstance1\obj\Debug\netcoreapp3.1\ClassAndInstance1.AssemblyInfoInputs.cache
+E:\code\StudyProject\004\ClassAndInstance1\obj\Debug\netcoreapp3.1\ClassAndInstance1.AssemblyInfo.cs
+E:\code\StudyProject\004\ClassAndInstance1\obj\Debug\netcoreapp3.1\ClassAndInstance1.dll
+E:\code\StudyProject\004\ClassAndInstance1\obj\Debug\netcoreapp3.1\ClassAndInstance1.pdb
